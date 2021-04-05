@@ -1,0 +1,4 @@
+github.com/h31/some-go-lib v0.0.0-20210405105536-a1138bef8be4 h1:YCM2bSTZibjik9sVFgLn9Vc+MJD/JfOII6wfarGlBKc=
+github.com/h31/some-go-lib v0.0.0-20210405105536-a1138bef8be4/go.mod h1:X9VrMMfJeCjLjvIPzjKwMf1ZjuDDMjbl81y/QfvlFqE=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
